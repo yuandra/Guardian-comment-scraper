@@ -2,7 +2,7 @@
 
 Scrapes comments from guardian articles and outputs them to JSON or CSV formats.
 
-Requires python and `BeautifulSoup` (`pip install BeautifulSoup`)
+Requires python and `BeautifulSoup` 4.x (`pip install beautifulsoup4`)
 
 ## Usage
 ```
